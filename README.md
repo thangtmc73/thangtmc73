@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1> Thang Minh Tran - Software Engineer <img src="https://komarev.com/ghpvc/?username=thangtmc73" alt="thangtmc73" /></h1> 
+
 <!--
 **thangtmc73/thangtmc73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
