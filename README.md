@@ -46,48 +46,6 @@ I build AI-powered applications, conversational agents, and full-stack web tools
 
 ---
 
-### Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/thangtmc73/flowy">Flowy</a></h3>
-      <p>Multi-partner insurance FAQ chatbot with RAG, product comparison, file upload, and AgentBase deployment.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/thangtmc73/flowy-prepare">Flowy Prepare</a></h3>
-      <p>AI-assisted knowledge authoring — parse PDF/DOCX, review FAQ drafts, export JSON for Flowy's knowledge base.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/LLM-AI?style=flat-square&color=6366f1" alt="LLM"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍪 <a href="https://github.com/thangtmc73/cookiesync">CookieSync</a></h3>
-      <p>Browser extension to sync cookies to localhost — handy for local dev and testing authenticated flows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Browser_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Extension"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Pinned repos</h3>
-      <p>More projects on my profile — Go utilities, React apps, and developer tooling experiments.</p>
-      <p>
-        <a href="https://github.com/thangtmc73?tab=repositories"><img src="https://img.shields.io/badge/View_all_repos-181717?style=flat-square&logo=github&logoColor=white" alt="All repos"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### GitHub Stats
 
 <div align="center">
@@ -95,27 +53,6 @@ I build AI-powered applications, conversational agents, and full-stack web tools
 <img src="https://github-readme-stats.vercel.app/api?username=thangtmc73&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thangtmc73&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangtmc73&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top languages" height="165"/>
-
-</div>
-
----
-
-### Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thangtmc73/thangtmc73/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thangtmc73/thangtmc73/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thangtmc73/thangtmc73/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-thangtmc73-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thangtmc73)
-[![Twitter](https://img.shields.io/badge/Twitter-@thangtmc73-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thangtmc73)
 
 </div>
 
