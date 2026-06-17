@@ -15,8 +15,6 @@
 Software Engineer at **VNG**, based in **Ho Chi Minh City, Vietnam**.
 I build AI-powered applications, conversational agents, and full-stack web tools.
 
-- 🔭 Currently building **[Flowy](https://github.com/thangtmc73/flowy)** — multi-partner insurance FAQ chatbot for [GreenNode Claw-a-thon 2026](https://greennode.ai/events/greennode-claw-a-thon)
-- 🛠️ Companion tool: **[Flowy Prepare](https://github.com/thangtmc73/flowy-prepare)** — AI-assisted PDF/DOCX → structured FAQ JSON authoring
 - 💡 Interested in AI agents, developer tools, and side projects that ship
 - 📍 Ho Chi Minh City, Vietnam
 
@@ -43,18 +41,6 @@ I build AI-powered applications, conversational agents, and full-stack web tools
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thangtmc73&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thangtmc73&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangtmc73&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top languages" height="165"/>
-
-</div>
 
 ---
 
