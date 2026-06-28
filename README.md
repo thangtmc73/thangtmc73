@@ -1,14 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=180&section=header&text=Thang%20Minh%20Tran%20(Quinn)&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%40%20VNG&descAlignY=58&descAlign=62"/>
+
+<img src="https://quyenexist.dev/api/banner?title=Thang%20Minh%20Tran%20(Quinn)&description=Software%20Engineer%20%40%20VNG"/>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Agent+Builder;Full-stack+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=thangtmc73&label=Profile%20views&color=6366f1&style=flat" alt="thangtmc73" />
 
 </div>
-
----
 
 ### About Me
 
@@ -46,8 +43,6 @@ I build AI-powered applications, conversational agents, and full-stack web tools
 
 <div align="center">
 
-*"Ship small, iterate fast, and let the agents handle the boring parts."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://quyenexist.dev/api/banner?description=%E2%80%9CDeviens%20ce%20que%20tu%20es%E2%80%9D%20%E2%80%94%20Become%20what%20you%20are"/>
 
 </div>
