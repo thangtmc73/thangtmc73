@@ -43,6 +43,6 @@ I build AI-powered applications, conversational agents, and full-stack web tools
 
 <div align="center">
 
-<img src="https://quyenexist.dev/api/banner?description=%E2%80%9CDeviens%20ce%20que%20tu%20es%E2%80%9D%20%E2%80%94%20Become%20what%20you%20are"/>
+<img src="https://quyenexist.dev/api/banner?title=%E2%80%9CDeviens%20ce%20que%20tu%20es%E2%80%9D%20%E2%80%94%20Become%20what%20you%20are&description=Friedrich%20Nietzsche&w=1200&h=400"/>
 
 </div>
