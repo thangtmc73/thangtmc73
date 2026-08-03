@@ -1,5 +1,5 @@
 
-<img src="https://quyenexist.dev/api/banner?title=Thang%20Minh%20Tran%20(Quinn)&description=Software%20Engineer%20%40%20VNG"/>
+<img src="https://quyenexist.dev/api/banner?title=Thang%20Minh%20Tran%20(Quinn)&description=Software%20Engineer%20%40%20VNG&w=1200&h=400"/>
 
 <div align="center">
 
